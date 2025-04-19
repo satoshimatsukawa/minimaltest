@@ -1,0 +1,6 @@
+{
+    "東京都": {"temp": "15-30°C", "humidity": "高", "season": "温暖"},
+    "北海道": {"temp": "5-20°C", "humidity": "中", "season": "寒冷"}
+}{
+    "東京都": {"temp": "15-30°C", "humidity": "高", "season": "温暖"},
+    "北海道": {"temp": "5-20°C", "humidity": "中", "season": "寒冷"}
