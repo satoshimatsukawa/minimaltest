@@ -1,0 +1,6 @@
+streamlit
+pillow
+requests
+openai
+pandas
+supabase-py==1.0.3
